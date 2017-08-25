@@ -33,9 +33,8 @@ LeanCloud based article reading statistics plugin
 ### Donate
 
 [AliPay](https://weic.me/donate)
-[Wechat](https://weic.me/donate)
 
-If you are not available for this, simply spreading the word for us would help too!
+[Wechat](https://weic.me/donate)
 
 
 ### License
