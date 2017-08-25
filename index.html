@@ -1,0 +1,70 @@
+<!--
+      文档地址：https://weic.me/LeanStatistics.js
+      项目地址：https://github.com/Weic96/LeanStatistics.js
+-->
+<!DOCTYPE html>
+<html>
+      <head>
+            <meta charset="utf-8">
+            <title>LeanStatistics.js Demo</title>
+            <style media="screen">
+                  .box{
+                        margin-top: 200px;
+                        width: 100%;
+                        padding: 40px 0;
+                        background: #fafafa;
+                        text-align: center;
+                  }
+                  .box h2{
+                        font-size: 34px;
+                        font-weight: 200;
+                        margin-bottom: 45px;
+                        color: #333;
+                  }
+                  .box p{
+                        font-size: 17px;
+                        color: #555;
+                  }
+                  .box p .views{
+                        color: #7464f1;
+                        font-weight: bold;
+                  }
+                  /* 下方样式与插件无关 */
+                  .project{
+                        position: fixed;
+                        top: 0;
+                        right: 0;
+                        width: 150px;
+                        height: 150px;
+                        background: url(src/forkme-github.png);
+                        background-repeat: no-repeat;
+                        background-size: 100% 100%;
+                  }
+            </style>
+      </head>
+      <body>
+
+            <div class="box">
+                  <h2>LeanStatistics.js Demo Page</h2>
+                  <p>This page has been viewed <span class="views" id="/url" title="views"></span> times</p>
+            </div>
+
+            <script type="text/javascript">
+                  var config = {
+                        APP_ID: '',
+                        APP_KEY: '',
+                        ClasS: 'Counter',
+                        el:'.views'
+                  }
+            </script>
+
+            <!-- 下方a标签与插件无关 -->
+            <a class="project" href="https://github.com/Weic96/LeanStatistics.js" target="_blank"></a>
+
+
+            <!-- script -->
+            <script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js" charset="utf-8"></script>
+            <script src="https://cdn1.lncld.net/static/js/3.1.0/av-min.js"></script>
+            <script src="LeanStatistics.min.js" charset="utf-8"></script>
+      </body>
+</html>
