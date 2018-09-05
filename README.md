@@ -1,8 +1,8 @@
 # LeanStatistics.js
 LeanCloud based article reading statistics plugin
 
-#### [Demo](https://weic.me/LeanStatistics.js-demo/)
-#### [中文文档](https://weic.me/LeanStatistics.js/)
+#### [Demo](https://note.isweic.com/LeanStatistics.js-demo/)
+#### [中文文档](https://note.isweic.com/LeanStatistics.js/)
 
 ### Installation && Usage
 
