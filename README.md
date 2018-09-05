@@ -36,12 +36,6 @@ and Home Page(Display function only)
 |   `el`   |     mast    | HTML Element          | 
 |   `elP`   |     mast    | Post page HTML Element          | 
 
-### Donate
-
-[AliPay](https://weic.me/donate)
-
-[Wechat](https://weic.me/donate)
-
 
 ### License
 [GPL-3.0](https://github.com/Weic96/LeanStatistics.js/master/LICENSE)
